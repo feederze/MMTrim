@@ -1,0 +1,2 @@
+# MMTrim
+一个将pdf文件中的文本提取出来转制成json文件以供paratranz使用的小程序。
